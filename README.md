@@ -1,1 +1,1 @@
-# FastAPI-banknote-authenticator
+# FastAPI
